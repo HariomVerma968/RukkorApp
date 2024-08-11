@@ -1,6 +1,6 @@
-this is the Rukkor App
+This is the Rukkor App
 
 
-Login ID and Password for check the app
+Login ID and Password   
 EmailId:- hariom@gamil.com
 Password:- Hariom@123
